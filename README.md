@@ -78,5 +78,3 @@ Pittsburgh PA 15261
 United States  
 Tel: +1 412-624-7693  
 Email: questions@midasnetwork.us
-
-
